@@ -4,19 +4,17 @@
 
 ## About Me 🙋‍♂️
 
-🎓 CSE undergrad @ KIOT <br>
-💻 Tech Enthusiast  
-🚀 Exploring emerging tech & trends  
-🌴 Based in Salem, Tamil Nadu  
-🔁 Learning, growing, and coding every day!  
-<br>
+🎓 MCA Student @ GIFT College <br>
+💻 Tech Enthusiast <br>
+🚀 Curious about new technologies <br>
+📍 Bhubaneswar, Odisha <br>
+🔁 Consistently learning & improving <br>
 
 ## Currently 🔍
 
 🌱 Learning: **Web Development**  
 👯 Looking to collaborate on: **AI Tools & Development**  
 📫 Reach me at: **subhransupal123@gmail.com**  
-⚡ Fun Fact: *The first computer bug was an actual bug! 🐛 — In 1947, a moth got trapped in the Harvard Mark II computer, causing a malfunction.*  
 <br>
 
 ## Languages 🌐
@@ -36,7 +34,6 @@
 
 ## Featured Projects 🚀
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Logic-Loom-00&repo=Article_Recommendation&theme=highcontrast)](https://github.com/Logic-Loom-00/Article_Recommendation)
 
 <!-- Add more projects like this -->
 <br>
