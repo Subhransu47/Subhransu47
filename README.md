@@ -1,6 +1,8 @@
 # Hi 👋, I'm SUBHRANSU 👨‍💻
 
-<img src="https://user-images.githubusercontent.com/74038190/212750147-854a394f-fee9-4080-9770-78a4b7ece53f.gif" width="500">
+![MasterHead](https://camo.githubusercontent.com/069e3ef2850e722ccaef748bf8cdadafeed9fd4a9ee1436daebd7e820f4402a7/68747470733a2f2f666972656261736573746f726167652e676f6f676c65617069732e636f6d2f76302f622f666c6578692d636f64696e672e61707073706f742e636f6d2f6f2f64656d706769372d35323066386435662d363364342d343435332d383832322d6462633134396165323766382e6769663f616c743d6d6564696126746f6b656e3d39316330633762322d393363332d343032392d623031312d316138373033633537333064)
+
+
 
 ## About Me 🙋‍♂️
 
@@ -32,24 +34,18 @@
 </p>
 <br>
 
-## Featured Projects 🚀
-
-
-<!-- Add more projects like this -->
-<br>
 
 ## GitHub Stats 📈  
 
 <p align="center">
   <!-- Stats -->
-  <img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=Elango-Kannan-00&theme=highcontrast" height="180em" />
+  <img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=Subhransu47&theme=highcontrast" height="180em" />
   
   <!-- Top Languages -->
-  <img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Elango-Kannan-00&theme=highcontrast" height="180em" />
+  <img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Subhransu47&theme=highcontrast" height="180em" />
   
- <img src="https://streak-stats.demolab.com?user=Elango-Kannan-00&theme=highcontrast&ring=yellow&fire=yellow&currStreakNum=yellow&sideNums=yellow&currStreakLabel=white&hide_border=true" height="180em" />
 
- <img src="https://github-readme-activity-graph.vercel.app/graph?username=Elango-Kannan-00&theme=high-contrast&line=FFD700&point=FFD700" alt="Contribution Graph" />
+ <img src="https://github-readme-activity-graph.vercel.app/graph?username=Subhransu47&theme=high-contrast&line=FFD700&point=FFD700" alt="Contribution Graph" />
 
 
 </p>
